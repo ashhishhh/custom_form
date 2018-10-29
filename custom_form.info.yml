@@ -1,0 +1,6 @@
+name: Custom Form
+type: module
+Description: This module do some text processing, like reversing or mixing words of any sentences.
+core: 8.x
+package: Custom
+

@@ -1,0 +1,4 @@
+custom_lib:
+  css:
+    theme:
+      css/style.css: {}
